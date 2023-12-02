@@ -1,5 +1,5 @@
-### Hi there 👋
-##### I'm KminuShin, just call me Shin. I'm interested in home automation, and I want to make a series of products using arduino, esp, raspberry pi, and connect them to a home server, and this is why I'm here. I want to learn more about networking, so I can make my ideas come true!
+### Hi!
+##### I'm KminuShin, or K--Shin。 I'm interested in IoT, and want to make my home automated with hand made devices, so I want to know more about networking.
 <!--
 **KminuShin/KminuShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
