@@ -1,5 +1,5 @@
 ### Hi!
-##### I'm KminuShin, or K--Shin。 I'm interested in IoT, and want to make my home automated with hand made devices, so I want to know more about networking.
+##### I'm KminuShin (K--Shin。), I'm just a ordinary student learning computer science.
 <!--
 **KminuShin/KminuShin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
